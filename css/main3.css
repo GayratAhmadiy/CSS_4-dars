@@ -1,0 +1,15 @@
+.wrap{
+    width: 1200px;
+    height: 800px;
+    margin: 20px auto;
+}
+.box-block-1{
+    background-color: #808080;
+    width: 1200px;
+    height: 400px;
+}
+.box-block-2{
+    background-color: #f1f1f1;
+    width: 1200px;
+    height: 400px;
+}
